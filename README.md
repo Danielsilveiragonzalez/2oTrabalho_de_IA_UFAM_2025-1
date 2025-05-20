@@ -1,0 +1,1 @@
+# 2oTrabalho_de_IA_UFAM_2025-1
