@@ -5,7 +5,7 @@
 
 **👨‍🏫 Professor: Edjard Mota**
 
-**👨‍💼 Aluno**: Daniel Silveira Gonzalez - 22251338 Eng. Computação
+**👨‍💼 Aluno**: Daniel Silveira Gonzalez - 22251338 - Eng. Computação
 ---
 Neste branch está incluído o segundo trabalho prático da disciplina de Inteligência Artificial. O trabalho aborda o tema de probabilidades aplicadas a redes bayesianas, com foco na representação e modelagem de incertezas em sistemas diagnósticos.
 
