@@ -10,3 +10,6 @@
 Neste branch está incluído o segundo trabalho prático da disciplina de Inteligência Artificial. O trabalho aborda o tema de probabilidades aplicadas a redes bayesianas, com foco na representação e modelagem de incertezas em sistemas diagnósticos.
 
 A principal atividade consiste na resolução de questões e a implementação da questão 2 do pdf, na qual foi construída uma rede bayesiana representando um sistema de bicicleta com falha potencial no farol. A rede é composta por variáveis como a condição da rua (Str), o desgaste do volante (Flw), o deslizamento do dínamo (R), a presença de tensão elétrica (V), e, posteriormente, a ocorrência de luz (Li). Essas variáveis estão interligadas por relações de dependência causal, permitindo calcular a probabilidade de determinados eventos com base em evidências parciais.
+
+
+Caso tenha dificuldade para acessar o Questao1.pdf, acesse o link do drive: https://drive.google.com/file/d/1COJVhWDmtwr_DaHGwdW_aOP32VImCMnE/view?usp=sharing
