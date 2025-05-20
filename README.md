@@ -1,6 +1,6 @@
 # 2oTrabalho_de_IA_UFAM_2025-1
 
-# Trabalho 2 da Inteligência Artificial
+# 📁 Trabalho 2 da Inteligência Artificial
 **📈 2º Trabalho Prático da disciplina de Inteligência Artificial**
 
 **👨‍🏫 Professor: Edjard Mota**
